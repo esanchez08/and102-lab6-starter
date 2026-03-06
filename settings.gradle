@@ -15,5 +15,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Campground-Pt3"
+rootProject.name = "and102-lab6-starter"
 include ':app'

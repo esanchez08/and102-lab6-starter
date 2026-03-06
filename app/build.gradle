@@ -14,7 +14,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.codepath.campground"
+        applicationId "com.codepath.lab6"
         minSdk 23
         targetSdk 34
         versionCode 1
